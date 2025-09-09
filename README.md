@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: evb7@yandex.ru
 - 😄 Pronouns: he.
-- ⚡ Fun fact: russian, 43 years.
+- ⚡ Fun fact: russian, 44 years.
 
 <!---
 iKogep/iKogep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
